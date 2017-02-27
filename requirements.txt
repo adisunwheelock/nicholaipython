@@ -19,3 +19,4 @@ sqlalchemy
 #scikit-learn
 mysql-connector
 mysqlclient
+jinja2
